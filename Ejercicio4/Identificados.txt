@@ -1,0 +1,12 @@
+int	tipo
+(	Signo de puntuación
+)	Signo de puntuación
+{	Signo de puntuación
+int	tipo
+;	Signo de puntuación
+int	tipo
+;	Signo de puntuación
+3	Entero
+5	Entero
+;	Signo de puntuación
+}	Signo de puntuación
